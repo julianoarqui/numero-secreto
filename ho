@@ -1,0 +1,60 @@
+[33mcommit 81a55f179352bc65409baf49fe0d3ff7127b8cca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Thu Jun 4 10:40:12 2026 -0300
+
+    cometado linha devido a duplicidade
+
+[33mcommit f6bc065df2cf26b0763a7657e1d89986c1cba4af[m
+Merge: 507a411 6587ba4
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Thu Jun 4 10:38:19 2026 -0300
+
+    Merge branch 'main' of github.com:julianoarqui/numero-secreto
+
+[33mcommit 507a411f82cb7588a581fd909f5bea18ed756515[m
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Thu Jun 4 10:30:26 2026 -0300
+
+    alterado de 30 para 20
+
+[33mcommit 6587ba416689cc026bf33ea3f7cb758bae881256[m
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Thu Jun 4 10:28:09 2026 -0300
+
+    alterado de 20 para 30 - repositorio clonado
+
+[33mcommit 7f3f2feb03333371a3ea8ebf318cc15e91d5c743[m
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Thu Jun 4 10:06:44 2026 -0300
+
+    alterando de 50 para 20
+
+[33mcommit 5d6895ab0f291606378c81fb4b4f7326491c128b[m
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Sun May 31 08:14:13 2026 -0300
+
+    alteracao de 100 para 50
+
+[33mcommit a333e422c9176ba2a1f480aa8914f2bea5813d80[m
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Sun May 31 08:07:46 2026 -0300
+
+    versão incial
+
+[33mcommit a081eb98dc2fd4377f83c92b489fc3ddbeec5592[m
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Mon May 25 21:32:18 2026 -0300
+
+    correcao de tag
+
+[33mcommit 389967dc74e1ef16e2769f0d2075f9fcda05166d[m
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Mon May 25 21:27:15 2026 -0300
+
+    alterando o intervalo para 100
+
+[33mcommit fff205fc0902efbf7228e36d04f2aa1a450b0d5d[m
+Author: julianoarqui <juliianoarqui@gmail.com>
+Date:   Sun May 24 08:40:18 2026 -0300
+
+    projeto inicial
